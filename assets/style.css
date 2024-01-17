@@ -122,6 +122,9 @@ body{
     -ms-transition: all .4s ease;
     -o-transition: all .4s ease;
 }
-.select-image{
+.select-image:hover{
+    background: transparent;
+    color: #fff;
+    border: 2px solid #fff;
     
 }
