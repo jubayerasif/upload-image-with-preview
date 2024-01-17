@@ -2,4 +2,4 @@
 
 # upload-image-with-preview
 
-gh-page link: https://jubayerasif.github.io/upload-image-with-preview/ 
+gh-page link: [https://jubayerasif.github.io/upload-image-with-preview/](https://jubayerasif.github.io/upload-image-with-preview/){:target="_blank"}
